@@ -1,2 +1,2 @@
 # GenAI-Test
-Test Ecommerce Site
+This project is written to test out Gen AI tools.
